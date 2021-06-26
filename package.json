@@ -238,7 +238,7 @@
       },
       "brave-core": {
         "dir": "src/brave",
-        "branch": "master",
+        "branch": "vpn_connection_manager_mac",
         "repository": {
           "url": "https://github.com/brave/brave-core.git"
         }
